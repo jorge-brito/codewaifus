@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html,
+body,
+#svelte {
+	font-family: 'Roboto Mono', monospace;
+	min-height: 100vh;
+}
+
+body {
+	overflow-y: scroll;
+}
+
+html.dark {
+	@apply bg-dark;
+}

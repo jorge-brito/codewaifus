@@ -1,0 +1,2504 @@
+{
+   "waifus": [
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/APL/Toujou_APL.png",
+         "name": "Toujou_APL.png",
+         "width": 960,
+         "height": 720,
+         "category": "APL"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/ASM/Tomo_Takino_Assembly.png",
+         "name": "Tomo_Takino_Assembly.png",
+         "width": 1380,
+         "height": 934,
+         "category": "ASM"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/ASM/iM%40S_Shijo_Takane_holding_Assembly_Language_for_x86_Processors.png",
+         "name": "iM@S_Shijo_Takane_holding_Assembly_Language_for_x86_Processors.png",
+         "width": 315,
+         "height": 320,
+         "category": "ASM"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ada/Shiomiya_Shiori_Holding_Shy_Ada_95_From_The_Beginning.png",
+         "name": "Shiomiya_Shiori_Holding_Shy_Ada_95_From_The_Beginning.png",
+         "width": 1052,
+         "height": 1342,
+         "category": "Ada"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Girl_From_Random_Art_Holds_THe_Art_Of_Computer_Programming.png",
+         "name": "Girl_From_Random_Art_Holds_THe_Art_Of_Computer_Programming.png",
+         "width": 1000,
+         "height": 1071,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Inose_Mai_Teaches_Introduction_to_Algorithms.jpeg",
+         "name": "Inose_Mai_Teaches_Introduction_to_Algorithms.jpeg",
+         "width": 512,
+         "height": 375,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Komi_Shouko_holding_Introdution_to_Algorithms.jpg",
+         "name": "Komi_Shouko_holding_Introdution_to_Algorithms.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Konohata_Mira_Reads_Introduction_to_Algorithms.jpeg",
+         "name": "Konohata_Mira_Reads_Introduction_to_Algorithms.jpeg",
+         "width": 512,
+         "height": 434,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Manaka_Ao_Holds_Introduction_to_Algorithms.jpeg",
+         "name": "Manaka_Ao_Holds_Introduction_to_Algorithms.jpeg",
+         "width": 420,
+         "height": 512,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Mio_Akiyama_Kageyama_Ritsu_reading_Introduction_to_Algorithms.jpg",
+         "name": "Mio_Akiyama_Kageyama_Ritsu_reading_Introduction_to_Algorithms.jpg",
+         "width": 450,
+         "height": 689,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Algorithms/Sakurai_Mikage_Holds_Introduction_to_Algorithms.jpeg",
+         "name": "Sakurai_Mikage_Holds_Introduction_to_Algorithms.jpeg",
+         "width": 428,
+         "height": 512,
+         "category": "Algorithms"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Architecture/Vigne_hold_Computer_Architecture_A_Quantitative_Approach.png",
+         "name": "Vigne_hold_Computer_Architecture_A_Quantitative_Approach.png",
+         "width": 1163,
+         "height": 943,
+         "category": "Architecture"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/297974%20bribing%20scene.png",
+         "name": "297974 bribing scene.png",
+         "width": 1280,
+         "height": 1817,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ai_Hayasaka_Holding_C_Programming_Language.jpg",
+         "name": "Ai_Hayasaka_Holding_C_Programming_Language.jpg",
+         "width": 2250,
+         "height": 4000,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Akiyama_Mio_Reading_C_Programming_Language.png",
+         "name": "Akiyama_Mio_Reading_C_Programming_Language.png",
+         "width": 1000,
+         "height": 800,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Arikawa_Hime_Holding_C_Programming_Language.png",
+         "name": "Arikawa_Hime_Holding_C_Programming_Language.png",
+         "width": 1000,
+         "height": 1400,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Arikawa_Hime_Holding_C_Programming_Language_wp.jpg",
+         "name": "Arikawa_Hime_Holding_C_Programming_Language_wp.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Chitanda_Eru_Holding_C_Programming_Language.jpg",
+         "name": "Chitanda_Eru_Holding_C_Programming_Language.jpg",
+         "width": 852,
+         "height": 973,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Fuko_Ibuki_Holding_Up_C.jpg",
+         "name": "Fuko_Ibuki_Holding_Up_C.jpg",
+         "width": 500,
+         "height": 375,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Hakurei_Reimu_Holding_C_Programming_Language.jpg",
+         "name": "Hakurei_Reimu_Holding_C_Programming_Language.jpg",
+         "width": 1050,
+         "height": 1280,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Hibiki_Holding_C_Programming_Language.png",
+         "name": "Hibiki_Holding_C_Programming_Language.png",
+         "width": 800,
+         "height": 1184,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/IM%40S_Minase_Iori_Holding_Chest_C_Programming_Language.png",
+         "name": "IM@S_Minase_Iori_Holding_Chest_C_Programming_Language.png",
+         "width": 1164,
+         "height": 1738,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ikezawa_Hanako_Sitting_Reading_C_Programming_Language.png",
+         "name": "Ikezawa_Hanako_Sitting_Reading_C_Programming_Language.png",
+         "width": 720,
+         "height": 1110,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kagamihara_nadeshiko_Reading_C_Programming_Language.png",
+         "name": "Kagamihara_nadeshiko_Reading_C_Programming_Language.png",
+         "width": 1280,
+         "height": 1647,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Karen_C_Programming_Language.png",
+         "name": "Karen_C_Programming_Language.png",
+         "width": 960,
+         "height": 720,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif",
+         "name": "Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif",
+         "width": 400,
+         "height": 486,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Kuroneko_Holding_Fake_C_Book.png",
+         "name": "Kuroneko_Holding_Fake_C_Book.png",
+         "width": 1293,
+         "height": 1080,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Mai_Sakurajima_Holding_C_Programming_Language.png",
+         "name": "Mai_Sakurajima_Holding_C_Programming_Language.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Maki_Oze_holding_introducao_a_programacao_com_a_linguagem_C.jpg",
+         "name": "Maki_Oze_holding_introducao_a_programacao_com_a_linguagem_C.jpg",
+         "width": 652,
+         "height": 846,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Megumin_Holding_C_Programming_Language.jpg",
+         "name": "Megumin_Holding_C_Programming_Language.jpg",
+         "width": 460,
+         "height": 460,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Meteora_%C3%96sterreich_Holding_C_Programming_Language.png",
+         "name": "Meteora_Österreich_Holding_C_Programming_Language.png",
+         "width": 784,
+         "height": 1193,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Misa_Amane_C_Programming_Book.png",
+         "name": "Misa_Amane_C_Programming_Book.png",
+         "width": 3000,
+         "height": 1836,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Miss_Monochrome_Holding_C_Programming_Language.png",
+         "name": "Miss_Monochrome_Holding_C_Programming_Language.png",
+         "width": 504,
+         "height": 720,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Murakami_Shiina_Holding_Computer_C_Programming_Language.png",
+         "name": "Murakami_Shiina_Holding_Computer_C_Programming_Language.png",
+         "width": 2015,
+         "height": 2204,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Nagato_Yuki_Backflip_With_C_Programming_Language.png",
+         "name": "Nagato_Yuki_Backflip_With_C_Programming_Language.png",
+         "width": 1000,
+         "height": 1071,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Nagato_Yuki_Reading_The_C_Programming_Language_In_The_Library.png",
+         "name": "Nagato_Yuki_Reading_The_C_Programming_Language_In_The_Library.png",
+         "width": 500,
+         "height": 492,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Renge_Reading_C_Programming_Language.jpg",
+         "name": "Renge_Reading_C_Programming_Language.jpg",
+         "width": 1050,
+         "height": 1050,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Sakura_Nene_Holding_C_Programming_Language_Book.jpg",
+         "name": "Sakura_Nene_Holding_C_Programming_Language_Book.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Shima_Rin_Motivated_With_C.png",
+         "name": "Shima_Rin_Motivated_With_C.png",
+         "width": 1280,
+         "height": 720,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Shiomiya_Shiori_Holding_Shy_C_Programming_language_wp.png",
+         "name": "Shiomiya_Shiori_Holding_Shy_C_Programming_language_wp.png",
+         "width": 1280,
+         "height": 800,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Smug_Asuka_Holding_The_C_Programming_Language.png",
+         "name": "Smug_Asuka_Holding_The_C_Programming_Language.png",
+         "width": 946,
+         "height": 720,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Tsukukakushi_Tsukiko_Holding_C_Programming_Language.png",
+         "name": "Tsukukakushi_Tsukiko_Holding_C_Programming_Language.png",
+         "width": 500,
+         "height": 1027,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Ui_Hirasawa_Holding_C_Programming_Language.png",
+         "name": "Ui_Hirasawa_Holding_C_Programming_Language.png",
+         "width": 961,
+         "height": 720,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C/Yuki_Nagato_Wakeboarding_Reading_C_Programming_Language.jpg",
+         "name": "Yuki_Nagato_Wakeboarding_Reading_C_Programming_Language.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "C"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%23/Chisaki_Tapris_C%23.png",
+         "name": "Chisaki_Tapris_C#.png",
+         "width": 868,
+         "height": 946,
+         "category": "C#"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%23/Kurumizawa_Satanichia_C%23.png",
+         "name": "Kurumizawa_Satanichia_C#.png",
+         "width": 433,
+         "height": 713,
+         "category": "C#"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%23/PRO_C%23_7.jpg",
+         "name": "PRO_C#_7.jpg",
+         "width": 700,
+         "height": 1114,
+         "category": "C#"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%23/Yasuraoka_Hanabi_Reading_CSharp_Language_Book.png.png",
+         "name": "Yasuraoka_Hanabi_Reading_CSharp_Language_Book.png.png",
+         "width": 500,
+         "height": 471,
+         "category": "C#"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Fujiwara_Chika_CPP_for_dummies.jpg",
+         "name": "Fujiwara_Chika_CPP_for_dummies.jpg",
+         "width": 1088,
+         "height": 1080,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Fuko_Accelerated_CPP.png",
+         "name": "Fuko_Accelerated_CPP.png",
+         "width": 1536,
+         "height": 1152,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Kagamihara_Nadeshiko_CPP.png",
+         "name": "Kagamihara_Nadeshiko_CPP.png",
+         "width": 1605,
+         "height": 901,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Kaguya_Shinomiya_Exceptional_C%2B%2B.png",
+         "name": "Kaguya_Shinomiya_Exceptional_C++.png",
+         "width": 1200,
+         "height": 675,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Kei_Shirogane_crying_CPP.png",
+         "name": "Kei_Shirogane_crying_CPP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg",
+         "name": "Sakura_Nene_CPP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP_Covered.jpg",
+         "name": "Sakura_Nene_CPP_Covered.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP_Fullface.png",
+         "name": "Sakura_Nene_CPP_Fullface.png",
+         "width": 900,
+         "height": 506,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakurajima_Mai_Holding_The_C%2B%2B_Programming_Language.jpg",
+         "name": "Sakurajima_Mai_Holding_The_C++_Programming_Language.jpg",
+         "width": 1200,
+         "height": 931,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Shiro_Holding_Stroustrup_4th_Edition.png",
+         "name": "Shiro_Holding_Stroustrup_4th_Edition.png",
+         "width": 794,
+         "height": 680,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Tohru_Reading_CPP.png",
+         "name": "Tohru_Reading_CPP.png",
+         "width": 650,
+         "height": 365,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Uiharu_Kazari_Modern_CPP_Design%20.jpg",
+         "name": "Uiharu_Kazari_Modern_CPP_Design .jpg",
+         "width": 387,
+         "height": 730,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg",
+         "name": "cirno_teaches_c++.jpg",
+         "width": 637,
+         "height": 579,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/gabriela_lotarynska_cpp.jpg",
+         "name": "gabriela_lotarynska_cpp.jpg",
+         "width": 806,
+         "height": 720,
+         "category": "C++"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Cobol/Yagami_Kou_Presenting_Structured_COBOL.png",
+         "name": "Yagami_Kou_Presenting_Structured_COBOL.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Cobol"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Compilers/Tohru_Kanna_Kobayashi_Excited_for_Dragon_book.png",
+         "name": "Tohru_Kanna_Kobayashi_Excited_for_Dragon_book.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Compilers"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Compilers/Tohru_Kanna_Kobayashi_Reading_Dragon_book_(Tohru_cover).png",
+         "name": "Tohru_Kanna_Kobayashi_Reading_Dragon_book_(Tohru_cover).png",
+         "width": 1676,
+         "height": 1302,
+         "category": "Compilers"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/D/Kunikida_Hanamaru_holding_Programming_in_D.jpg",
+         "name": "Kunikida_Hanamaru_holding_Programming_in_D.jpg",
+         "width": 990,
+         "height": 710,
+         "category": "D"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Delphi/kukuru_little_book_of_delphi.png",
+         "name": "kukuru_little_book_of_delphi.png",
+         "width": 496,
+         "height": 462,
+         "category": "Delphi"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Menhera-chan_Agile_Design_Pattern.png",
+         "name": "Menhera-chan_Agile_Design_Pattern.png",
+         "width": 900,
+         "height": 814,
+         "category": "Design Patterns"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Menhera-chan_Head_First_Design_Patterns.png",
+         "name": "Menhera-chan_Head_First_Design_Patterns.png",
+         "width": 900,
+         "height": 814,
+         "category": "Design Patterns"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Nagato_Yuki_Design_Patterns.png",
+         "name": "Nagato_Yuki_Design_Patterns.png",
+         "width": 934,
+         "height": 1000,
+         "category": "Design Patterns"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Design%20Patterns/Watashi_Design_Patterns.jpg",
+         "name": "Watashi_Design_Patterns.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "Design Patterns"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Kanna_Kamui_Recommends_Emacs.png",
+         "name": "Kanna_Kamui_Recommends_Emacs.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Editors"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Kobayashi_Holding_GNU_Emacs_Book.png",
+         "name": "Kobayashi_Holding_GNU_Emacs_Book.png",
+         "width": 1000,
+         "height": 1781,
+         "category": "Editors"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Murakami_Shiina_Holding_Computer_Neofetch_Modern_Vim.png",
+         "name": "Murakami_Shiina_Holding_Computer_Neofetch_Modern_Vim.png",
+         "width": 1080,
+         "height": 1920,
+         "category": "Editors"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Editors/Takunomi_Nao-Kiriyama_Vi.png",
+         "name": "Takunomi_Nao-Kiriyama_Vi.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Editors"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Elixir/Atsuko_Kagari_Holding_Introducing_Elixir.png",
+         "name": "Atsuko_Kagari_Holding_Introducing_Elixir.png",
+         "width": 1200,
+         "height": 675,
+         "category": "Elixir"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Elixir/Makise_Kurisu_Holding_Programming_Elixir.png",
+         "name": "Makise_Kurisu_Holding_Programming_Elixir.png",
+         "width": 1024,
+         "height": 1216,
+         "category": "Elixir"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Elixir/Ruri_Gokou_Holding_Elixir_Tutorial.png",
+         "name": "Ruri_Gokou_Holding_Elixir_Tutorial.png",
+         "width": 1920,
+         "height": 1060,
+         "category": "Elixir"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Elixir/Sakurajima_Mai_holding_Elixir_in_Action.png",
+         "name": "Sakurajima_Mai_holding_Elixir_in_Action.png",
+         "width": 1200,
+         "height": 931,
+         "category": "Elixir"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Fortran/Makise_Kurisu_Modern_Fortran_Explained.png",
+         "name": "Makise_Kurisu_Modern_Fortran_Explained.png",
+         "width": 1500,
+         "height": 1781,
+         "category": "Fortran"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/GDScript/hibiki_gdscript.png",
+         "name": "hibiki_gdscript.png",
+         "width": 700,
+         "height": 1078,
+         "category": "GDScript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Go/Chitanda_Eru_Holding_GO_Programming_Language.jpg",
+         "name": "Chitanda_Eru_Holding_GO_Programming_Language.jpg",
+         "width": 852,
+         "height": 973,
+         "category": "Go"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png",
+         "name": "Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png",
+         "width": 640,
+         "height": 360,
+         "category": "Go"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Go/Lain_Reading_The_Go_Programming_Lanquage.png",
+         "name": "Lain_Reading_The_Go_Programming_Lanquage.png",
+         "width": 503,
+         "height": 596,
+         "category": "Go"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Go/Sayu_Ogiwara_Holding_GO_Programming_Language.png",
+         "name": "Sayu_Ogiwara_Holding_GO_Programming_Language.png",
+         "width": 1914,
+         "height": 1034,
+         "category": "Go"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Go/Yaoyorozu_Momo_Holding_Go_Programming_Language.png",
+         "name": "Yaoyorozu_Momo_Holding_Go_Programming_Language.png",
+         "width": 1080,
+         "height": 2160,
+         "category": "Go"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Ju_Hyeon-mi_Numerous_Haskell_Books_Being_Annoyed_By_A_Pigeon.jpg",
+         "name": "Ju_Hyeon-mi_Numerous_Haskell_Books_Being_Annoyed_By_A_Pigeon.jpg",
+         "width": 2480,
+         "height": 3496,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Kujou_Karen_Learns_Haskell.png",
+         "name": "Kujou_Karen_Learns_Haskell.png",
+         "width": 1280,
+         "height": 719,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Learn_You_A_Haskell_For_Great_Good.png",
+         "name": "Learn_You_A_Haskell_For_Great_Good.png",
+         "width": 1000,
+         "height": 1300,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Menhera-chan_LYAHFGG.png",
+         "name": "Menhera-chan_LYAHFGG.png",
+         "width": 3700,
+         "height": 3200,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Miyauchi_Renge_Holding_Haskell_Programming.png",
+         "name": "Miyauchi_Renge_Holding_Haskell_Programming.png",
+         "width": 1920,
+         "height": 2443,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Haskell/Nakagawa_Nana_With_Procedural_Haskell.jpg",
+         "name": "Nakagawa_Nana_With_Procedural_Haskell.jpg",
+         "width": 1497,
+         "height": 2048,
+         "category": "Haskell"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HoTT/Beatrice_Holding_HoTT.png",
+         "name": "Beatrice_Holding_HoTT.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "HoTT"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HoTT/Nagato_Yuki_Reads_HoTT.png",
+         "name": "Nagato_Yuki_Reads_HoTT.png",
+         "width": 460,
+         "height": 460,
+         "category": "HoTT"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HoTT/Nishikino_Maki_reads_HoTT.png",
+         "name": "Nishikino_Maki_reads_HoTT.png",
+         "width": 700,
+         "height": 1039,
+         "category": "HoTT"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HoTT/Yui_Hirasawa_reads_HoTT.png",
+         "name": "Yui_Hirasawa_reads_HoTT.png",
+         "width": 3531,
+         "height": 1980,
+         "category": "HoTT"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HolyC/Lisa_Minci_Holding_HolyC_book.png",
+         "name": "Lisa_Minci_Holding_HolyC_book.png",
+         "width": 1245,
+         "height": 1600,
+         "category": "HolyC"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HolyC/Sakurajima_Mai_Holding_The_HolyC_Programming_Language.jpg",
+         "name": "Sakurajima_Mai_Holding_The_HolyC_Programming_Language.jpg",
+         "width": 1200,
+         "height": 931,
+         "category": "HolyC"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/HolyC/Sky_Feather_Holding_Holy_C.png",
+         "name": "Sky_Feather_Holding_Holy_C.png",
+         "width": 1600,
+         "height": 1200,
+         "category": "HolyC"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Code_Geass_CC_How_To_Program_In_Java.png",
+         "name": "Code_Geass_CC_How_To_Program_In_Java.png",
+         "width": 1280,
+         "height": 800,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/FGO_Artoria_Pendragon_Java_For_Dummies_7.png",
+         "name": "FGO_Artoria_Pendragon_Java_For_Dummies_7.png",
+         "width": 1253,
+         "height": 886,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Fate_Java_12_Programming.png",
+         "name": "Fate_Java_12_Programming.png",
+         "width": 1512,
+         "height": 1512,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Furukawa_Nagisa_Java_12.png",
+         "name": "Furukawa_Nagisa_Java_12.png",
+         "width": 1669,
+         "height": 2400,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Hayasaka_Holding_Android_Java.png",
+         "name": "Hayasaka_Holding_Android_Java.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Kurumizawa_Satanichia_Intro_To_Java_Programming.png",
+         "name": "Kurumizawa_Satanichia_Intro_To_Java_Programming.png",
+         "width": 433,
+         "height": 713,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Kurumizawa_Satanichia_JavaFx_8_Intro_by_Example.png",
+         "name": "Kurumizawa_Satanichia_JavaFx_8_Intro_by_Example.png",
+         "width": 433,
+         "height": 713,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Uiharu_Kazari_Thinks_In_Java%20.jpg",
+         "name": "Uiharu_Kazari_Thinks_In_Java .jpg",
+         "width": 822,
+         "height": 454,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Java/Yuuko_Aioi_Holding_Fundamentals_Of_Java_Programming.png",
+         "name": "Yuuko_Aioi_Holding_Fundamentals_Of_Java_Programming.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Java"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Chitanda_Eru_Holding_Programming_Books_With_Deno_Manual_On_The_Top.png",
+         "name": "Chitanda_Eru_Holding_Programming_Books_With_Deno_Manual_On_The_Top.png",
+         "width": 1000,
+         "height": 1453,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png",
+         "name": "Doma_Umaru_Java_Script_The_Good_Parts.png",
+         "width": 1600,
+         "height": 900,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Felix_Argyle_Scared_By_JavaScript_The_Good_Parts.png",
+         "name": "Felix_Argyle_Scared_By_JavaScript_The_Good_Parts.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Ikuno_Holding_Javascript_The_Definitive_Guide.png",
+         "name": "Ikuno_Holding_Javascript_The_Definitive_Guide.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Monogatari_Shinobu_Speaking_Javascript.png",
+         "name": "Monogatari_Shinobu_Speaking_Javascript.png",
+         "width": 1440,
+         "height": 810,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Ninomae_Ina'nis_Holding_Eloquent_Javascript.jpg",
+         "name": "Ninomae_Ina'nis_Holding_Eloquent_Javascript.jpg",
+         "width": 850,
+         "height": 1312,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Ram_Holding_JavaScript_The_Good_Parts.png",
+         "name": "Ram_Holding_JavaScript_The_Good_Parts.png",
+         "width": 1874,
+         "height": 937,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Tamaki_Mari_Holding_Eloquent_JavaScript.jpg",
+         "name": "Tamaki_Mari_Holding_Eloquent_JavaScript.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Tosaka_Rin_Learning_JS.png",
+         "name": "Tosaka_Rin_Learning_JS.png",
+         "width": 480,
+         "height": 255,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Javascript/Zero_Two_Holding_Nodejs_8_the_Right_Way.png",
+         "name": "Zero_Two_Holding_Nodejs_8_the_Right_Way.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Javascript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Kotlin/Maya_Enjoys_Kotlin.png",
+         "name": "Maya_Enjoys_Kotlin.png",
+         "width": 900,
+         "height": 964,
+         "category": "Kotlin"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Kotlin/Misato_and_Shinji_Discovering_Kotlin.jpg",
+         "name": "Misato_and_Shinji_Discovering_Kotlin.jpg",
+         "width": 540,
+         "height": 430,
+         "category": "Kotlin"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Kotlin/Takanashi_Sei_Holding_Kotlin_In_Action.png",
+         "name": "Takanashi_Sei_Holding_Kotlin_In_Action.png",
+         "width": 1724,
+         "height": 1734,
+         "category": "Kotlin"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lisp/Fuyuno_Haruaki_holding_Let_%20Over_%20Lambda.png",
+         "name": "Fuyuno_Haruaki_holding_Let_ Over_ Lambda.png",
+         "width": 1812,
+         "height": 2480,
+         "category": "Lisp"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lisp/Key_Common_Lisp_2nd_Edition.png",
+         "name": "Key_Common_Lisp_2nd_Edition.png",
+         "width": 708,
+         "height": 531,
+         "category": "Lisp"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lisp/Original_by_om5han_On_Lisp_Advanced_Techniques_for_Common_Lisp.jpeg",
+         "name": "Original_by_om5han_On_Lisp_Advanced_Techniques_for_Common_Lisp.jpeg",
+         "width": 506,
+         "height": 666,
+         "category": "Lisp"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lisp/Urara_Shiratori_holding_ANSI_Common_Lisp.png",
+         "name": "Urara_Shiratori_holding_ANSI_Common_Lisp.png",
+         "width": 2618,
+         "height": 2480,
+         "category": "Lisp"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Idolmaster_Million_Live_Yuriko_Nanao_Holding_Programming_in_Lua_by_Roberto_Ierusalimschy.png",
+         "name": "Idolmaster_Million_Live_Yuriko_Nanao_Holding_Programming_in_Lua_by_Roberto_Ierusalimschy.png",
+         "width": 640,
+         "height": 832,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Konno_Yukki_Programming_In_Lua.png",
+         "name": "Konno_Yukki_Programming_In_Lua.png",
+         "width": 474,
+         "height": 296,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Rin_Shima_Programming_In_Lua.png",
+         "name": "Rin_Shima_Programming_In_Lua.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Wallpaper_Girl_Lua_Language_Book.png",
+         "name": "Wallpaper_Girl_Lua_Language_Book.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Wallpaper_Girl_Lua_Language_Book_2.png",
+         "name": "Wallpaper_Girl_Lua_Language_Book_2.png",
+         "width": 893,
+         "height": 1263,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Wallpaper_Girl_Lua_Language_Book_3.png",
+         "name": "Wallpaper_Girl_Lua_Language_Book_3.png",
+         "width": 800,
+         "height": 800,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Wallpaper_Girl_Lua_Language_Book_4.png",
+         "name": "Wallpaper_Girl_Lua_Language_Book_4.png",
+         "width": 640,
+         "height": 805,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Wallpaper_Girl_Lua_Language_Book_5.png",
+         "name": "Wallpaper_Girl_Lua_Language_Book_5.png",
+         "width": 799,
+         "height": 400,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Lua/Yasuraoka_Hanabi_Reading_Lua_Language_Book.png",
+         "name": "Yasuraoka_Hanabi_Reading_Lua_Language_Book.png",
+         "width": 300,
+         "height": 250,
+         "category": "Lua"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Aki_Holding_Diestel_Graph_Theory.png",
+         "name": "Aki_Holding_Diestel_Graph_Theory.png",
+         "width": 1280,
+         "height": 1600,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Fumo_Hinanawi_Tenshi_reading_Discrete_Math.jpg",
+         "name": "Fumo_Hinanawi_Tenshi_reading_Discrete_Math.jpg",
+         "width": 2048,
+         "height": 1526,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Kagari_Atsuko_discrete_maths.jpg",
+         "name": "Kagari_Atsuko_discrete_maths.jpg",
+         "width": 1200,
+         "height": 675,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Oikura_Sodachi_Arithmetic_Algebraic_Geometry.png",
+         "name": "Oikura_Sodachi_Arithmetic_Algebraic_Geometry.png",
+         "width": 1000,
+         "height": 1414,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Senjougahara_Hitagi_Ordinary_Differential_Equations.png",
+         "name": "Senjougahara_Hitagi_Ordinary_Differential_Equations.png",
+         "width": 733,
+         "height": 1458,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Shima_Rin_Reading_Diestel_Graph_Theory.png",
+         "name": "Shima_Rin_Reading_Diestel_Graph_Theory.png",
+         "width": 2275,
+         "height": 2772,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Squid_Girl_Ikamusume_holds_The_Theory_of_Algebraic_Number_Fields_by_Hilbert.png",
+         "name": "Squid_Girl_Ikamusume_holds_The_Theory_of_Algebraic_Number_Fields_by_Hilbert.png",
+         "width": 602,
+         "height": 699,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Math/Youmu_Konpaku_Holding_Discrete_Math_And_Its_Applications.jpg",
+         "name": "Youmu_Konpaku_Holding_Discrete_Math_And_Its_Applications.jpg",
+         "width": 1200,
+         "height": 1679,
+         "category": "Math"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Banner_Structures_and_Interpretations_of_Anime_Girls_and_Linux_Ricing.png",
+         "name": "Banner_Structures_and_Interpretations_of_Anime_Girls_and_Linux_Ricing.png",
+         "width": 468,
+         "height": 60,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Cirno_Kirisame_Marisa_Learning_Programming_CPP.png",
+         "name": "Cirno_Kirisame_Marisa_Learning_Programming_CPP.png",
+         "width": 800,
+         "height": 720,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Cosplay_SICP.jpg",
+         "name": "Cosplay_SICP.jpg",
+         "width": 3264,
+         "height": 1836,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Himegoto_Casting_Malloc.png",
+         "name": "Himegoto_Casting_Malloc.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Himegoto_Linked_Lists_Beginner.jpg",
+         "name": "Himegoto_Linked_Lists_Beginner.jpg",
+         "width": 1280,
+         "height": 1440,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Komeiji_Satori_SICP.jpg",
+         "name": "Komeiji_Satori_SICP.jpg",
+         "width": 600,
+         "height": 600,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Memes/Murakami_Shiina_SICP.jpg",
+         "name": "Murakami_Shiina_SICP.jpg",
+         "width": 520,
+         "height": 1187,
+         "category": "Memes"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Mixed/Nyaruko_Holding_React_And_Git_Essentials.jpg",
+         "name": "Nyaruko_Holding_React_And_Git_Essentials.jpg",
+         "width": 861,
+         "height": 480,
+         "category": "Mixed"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Mixed/Roll-Rockman_C_SICP_Art_Of_Programming.jpg",
+         "name": "Roll-Rockman_C_SICP_Art_Of_Programming.jpg",
+         "width": 1000,
+         "height": 1155,
+         "category": "Mixed"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Nim/Suzukaze_Aoba_Nim_In_Action.png",
+         "name": "Suzukaze_Aoba_Nim_In_Action.png",
+         "width": 1073,
+         "height": 603,
+         "category": "Nim"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/OCaml/Iino_Miko_from_Kaguya-sama_Holding_OCaml_Book.jpg",
+         "name": "Iino_Miko_from_Kaguya-sama_Holding_OCaml_Book.jpg",
+         "width": 640,
+         "height": 908,
+         "category": "OCaml"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/OCaml/Miyamizu_Mitsuha_Real_World_OCaml.png",
+         "name": "Miyamizu_Mitsuha_Real_World_OCaml.png",
+         "width": 1280,
+         "height": 720,
+         "category": "OCaml"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Cosplay_Melon_Pan_Kanna_Reading_SICP.png",
+         "name": "Cosplay_Melon_Pan_Kanna_Reading_SICP.png",
+         "width": 2048,
+         "height": 1365,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Hakurei_Reimu_PC98_holding_PC9801_Programming_Bible.png",
+         "name": "Hakurei_Reimu_PC98_holding_PC9801_Programming_Bible.png",
+         "width": 400,
+         "height": 560,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Kurumizawa_Satanichia_holding_Communist_Manifesto_by_Marx.png",
+         "name": "Kurumizawa_Satanichia_holding_Communist_Manifesto_by_Marx.png",
+         "width": 433,
+         "height": 713,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Kushieda_Minori_Twitter_Fail_Whale_Mug.png",
+         "name": "Kushieda_Minori_Twitter_Fail_Whale_Mug.png",
+         "width": 600,
+         "height": 349,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Lain_holding_Hacker_Heaven_behind_her_back.jpg",
+         "name": "Lain_holding_Hacker_Heaven_behind_her_back.jpg",
+         "width": 1008,
+         "height": 720,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Mokou_And_Keine_Reading_Windows_Kernel_Programming.png",
+         "name": "Mokou_And_Keine_Reading_Windows_Kernel_Programming.png",
+         "width": 719,
+         "height": 650,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Patchouil_Reading_Windows_Internal_7th_Edition.png",
+         "name": "Patchouil_Reading_Windows_Internal_7th_Edition.png",
+         "width": 868,
+         "height": 1228,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Rin-Shelter_holding_linux_books.png",
+         "name": "Rin-Shelter_holding_linux_books.png",
+         "width": 496,
+         "height": 496,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Suzukaze_Aoba_researching_Autodesk_Saya_1.jpg",
+         "name": "Suzukaze_Aoba_researching_Autodesk_Saya_1.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Suzukaze_Aoba_researching_Autodesk_Saya_2.jpg",
+         "name": "Suzukaze_Aoba_researching_Autodesk_Saya_2.jpg",
+         "width": 947,
+         "height": 533,
+         "category": "Other"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/PHP/Akira_Oono_Holding_PHP_Programming_Language.jpg",
+         "name": "Akira_Oono_Holding_PHP_Programming_Language.jpg",
+         "width": 800,
+         "height": 445,
+         "category": "PHP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/PHP/Gabriel_DropOut_Chisaki_Tapris_PHP.png",
+         "name": "Gabriel_DropOut_Chisaki_Tapris_PHP.png",
+         "width": 935,
+         "height": 826,
+         "category": "PHP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Perl/Iwakura_Lain_Programming_Perl.png",
+         "name": "Iwakura_Lain_Programming_Perl.png",
+         "width": 759,
+         "height": 1021,
+         "category": "Perl"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Perl/Kenja-No-Mago_Examiner_Perl.png",
+         "name": "Kenja-No-Mago_Examiner_Perl.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Perl"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Perl/Kenja-No-Mago_Examiner_Perl2.png",
+         "name": "Kenja-No-Mago_Examiner_Perl2.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Perl"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Perl/Mizuho_Programming_Perl.png",
+         "name": "Mizuho_Programming_Perl.png",
+         "width": 1440,
+         "height": 1080,
+         "category": "Perl"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Personification/Amada_Kokoro_AMD_Waifu.jpg",
+         "name": "Amada_Kokoro_AMD_Waifu.jpg",
+         "width": 600,
+         "height": 904,
+         "category": "Personification"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Personification/Arikawa_Hime_dpt.png",
+         "name": "Arikawa_Hime_dpt.png",
+         "width": 974,
+         "height": 974,
+         "category": "Personification"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Personification/Haskell_Ruby_Waifus.png",
+         "name": "Haskell_Ruby_Waifus.png",
+         "width": 810,
+         "height": 698,
+         "category": "Personification"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Prolog/iM%40S_Hoshii_Miki_Art_of_Prolog.png",
+         "name": "iM@S_Hoshii_Miki_Art_of_Prolog.png",
+         "width": 362,
+         "height": 250,
+         "category": "Prolog"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Chino_and_Meg_from_GochiUsa_Python.jpg",
+         "name": "Chino_and_Meg_from_GochiUsa_Python.jpg",
+         "width": 1520,
+         "height": 1080,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Chiyo_Mihama_With_Python_Homework.png",
+         "name": "Chiyo_Mihama_With_Python_Homework.png",
+         "width": 895,
+         "height": 672,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.png",
+         "name": "Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.png",
+         "width": 1440,
+         "height": 1080,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Drunk_Kobayashi_Python.png",
+         "name": "Drunk_Kobayashi_Python.png",
+         "width": 640,
+         "height": 362,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Emilico_From_ShadowsHouse_Python.jpg",
+         "name": "Emilico_From_ShadowsHouse_Python.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Hirasawa_Yui_Studying_For_interview.png",
+         "name": "Hirasawa_Yui_Studying_For_interview.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Jahy_Sama_Python.jpg",
+         "name": "Jahy_Sama_Python.jpg",
+         "width": 1113,
+         "height": 964,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Kirino_Happy_Python.png",
+         "name": "Kirino_Happy_Python.png",
+         "width": 1024,
+         "height": 550,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Komi_san_Python.png",
+         "name": "Komi_san_Python.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Moka_Hoto_Holding_Python_For_Beginners.png",
+         "name": "Moka_Hoto_Holding_Python_For_Beginners.png",
+         "width": 640,
+         "height": 360,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Original_by_Tkimz_Python_Programming_Book.png",
+         "name": "Original_by_Tkimz_Python_Programming_Book.png",
+         "width": 672,
+         "height": 672,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Python/Original_by_Tkimz_With_The_Renegade_Coder_Python_Lab.png",
+         "name": "Original_by_Tkimz_With_The_Renegade_Coder_Python_Lab.png",
+         "width": 2271,
+         "height": 4000,
+         "category": "Python"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Quantum%20Computing/Minami_Shizuku_Noda_Kotone_from_Sakura_Trick_Quantum_Field_Theory.png",
+         "name": "Minami_Shizuku_Noda_Kotone_from_Sakura_Trick_Quantum_Field_Theory.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Quantum Computing"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Quantum%20Computing/Urara_Shiratori_Intro_Topological_Quantun_Computation.png",
+         "name": "Urara_Shiratori_Intro_Topological_Quantun_Computation.png",
+         "width": 811,
+         "height": 599,
+         "category": "Quantum Computing"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Racket/Nagato_Yuki_HtDP.png",
+         "name": "Nagato_Yuki_HtDP.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Racket"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Idolmaster_Cinderella_Girls_Chieri_Holding_Ruby_on_Rails_Tutorial_by_Michael_Hartl.png",
+         "name": "Idolmaster_Cinderella_Girls_Chieri_Holding_Ruby_on_Rails_Tutorial_by_Michael_Hartl.png",
+         "width": 603,
+         "height": 435,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Izetta_Introduction_to_Ruby_Programming_for_Future_Professionals.png",
+         "name": "Izetta_Introduction_to_Ruby_Programming_for_Future_Professionals.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Kanzaki_Ranko_Holding_Ruby_Programming_Lang.png",
+         "name": "Kanzaki_Ranko_Holding_Ruby_Programming_Lang.png",
+         "width": 659,
+         "height": 990,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Megumin_Reading_Programming_Gengo_Ruby.jpg",
+         "name": "Megumin_Reading_Programming_Gengo_Ruby.jpg",
+         "width": 960,
+         "height": 540,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Ruby_Kurosawa_Holding_Ruby_Programming_Lang.png",
+         "name": "Ruby_Kurosawa_Holding_Ruby_Programming_Lang.png",
+         "width": 1919,
+         "height": 1079,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/Saber_Alter_Ruby.png",
+         "name": "Saber_Alter_Ruby.png",
+         "width": 858,
+         "height": 1008,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Ruby/rubyist.jpeg",
+         "name": "rubyist.jpeg",
+         "width": 1440,
+         "height": 3040,
+         "category": "Ruby"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Inuyama_Aoi_Showing_Off_RUST_Programming.png",
+         "name": "Inuyama_Aoi_Showing_Off_RUST_Programming.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Iwakura_Lain_Rust_programming.png",
+         "name": "Iwakura_Lain_Rust_programming.png",
+         "width": 759,
+         "height": 1021,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Kanna_Kamui_Finds_RUST_programming.jpg",
+         "name": "Kanna_Kamui_Finds_RUST_programming.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Komi_holding_Web_Assembly_with_Rust.png",
+         "name": "Komi_holding_Web_Assembly_with_Rust.png",
+         "width": 716,
+         "height": 526,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Kotoko_Iwanaga_The_Rust_Programming_Language.png",
+         "name": "Kotoko_Iwanaga_The_Rust_Programming_Language.png",
+         "width": 1478,
+         "height": 832,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Koukaku_no_Pandora_Rust_Programming.jpg",
+         "name": "Koukaku_no_Pandora_Rust_Programming.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Miyamizu_Mitsuha_On_Ownership_And_Borrowing.jpg",
+         "name": "Miyamizu_Mitsuha_On_Ownership_And_Borrowing.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Nene_Sakura_Rust.png",
+         "name": "Nene_Sakura_Rust.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Ninomae_Inanis_Holding_Rust_Programming.png",
+         "name": "Ninomae_Inanis_Holding_Rust_Programming.png",
+         "width": 1427,
+         "height": 1427,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Rin_Shima_The_Rust_Programming_Language.png",
+         "name": "Rin_Shima_The_Rust_Programming_Language.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Rin_Shima_The_Rust_Programming_Language_2.png",
+         "name": "Rin_Shima_The_Rust_Programming_Language_2.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Rin_Shima_The_Rust_Programming_Language_3.png",
+         "name": "Rin_Shima_The_Rust_Programming_Language_3.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Sawai_Natsuha_Smug_Rust.png",
+         "name": "Sawai_Natsuha_Smug_Rust.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Squid_Girl_Ikamusume_recommends_Rust.jpg",
+         "name": "Squid_Girl_Ikamusume_recommends_Rust.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Suigintou_Smug_Rust.jpg",
+         "name": "Suigintou_Smug_Rust.jpg",
+         "width": 600,
+         "height": 600,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Rust/Takebe_Saori_on_Web_Assembly_With_Rust.png",
+         "name": "Takebe_Saori_on_Web_Assembly_With_Rust.png",
+         "width": 707,
+         "height": 1000,
+         "category": "Rust"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Azmaria_Hendric_Holding_SICP.png",
+         "name": "Azmaria_Hendric_Holding_SICP.png",
+         "width": 640,
+         "height": 480,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Buratei_Marii_Not_Confident_At_ALL_SICP.png",
+         "name": "Buratei_Marii_Not_Confident_At_ALL_SICP.png",
+         "width": 441,
+         "height": 421,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Buratei_Marii_Not_Confident_At_ALL_SICP_bg.jpg",
+         "name": "Buratei_Marii_Not_Confident_At_ALL_SICP_bg.jpg",
+         "width": 441,
+         "height": 421,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Chisaki_Tapris_Has_no_clue_SICP.png",
+         "name": "Chisaki_Tapris_Has_no_clue_SICP.png",
+         "width": 1327,
+         "height": 1363,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Chuunis_Rikka_Sanae_Studying_SICP.jpg",
+         "name": "Chuunis_Rikka_Sanae_Studying_SICP.jpg",
+         "width": 1440,
+         "height": 810,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Dirty_Pair_Yuri_angry_SICP.jpg",
+         "name": "Dirty_Pair_Yuri_angry_SICP.jpg",
+         "width": 320,
+         "height": 240,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Etotama_Uri-tan_reading_SICP.png",
+         "name": "Etotama_Uri-tan_reading_SICP.png",
+         "width": 440,
+         "height": 420,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Fujiwara_Chika_Presents_SICP.png",
+         "name": "Fujiwara_Chika_Presents_SICP.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Fujiwara_No_Mokou_Law_Is_SICP.png",
+         "name": "Fujiwara_No_Mokou_Law_Is_SICP.png",
+         "width": 392,
+         "height": 462,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Fujiwara_No_Mokou_Lewds_SICP.jpg",
+         "name": "Fujiwara_No_Mokou_Lewds_SICP.jpg",
+         "width": 850,
+         "height": 638,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Fumami_Yui_Holding_SICP.png",
+         "name": "Fumami_Yui_Holding_SICP.png",
+         "width": 873,
+         "height": 1079,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Funami_Yui_Hugging_SICP.jpg",
+         "name": "Funami_Yui_Hugging_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/GochiUsa_Is_The_Order_SICP.png",
+         "name": "GochiUsa_Is_The_Order_SICP.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Gokou_Ruri_Points_At_SICP.jpg",
+         "name": "Gokou_Ruri_Points_At_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Hanamaru_Kunikida_Holding_SICP.jpg",
+         "name": "Hanamaru_Kunikida_Holding_SICP.jpg",
+         "width": 900,
+         "height": 800,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/IM%40s_Ganaha_Hibiki_SICP.png",
+         "name": "IM@s_Ganaha_Hibiki_SICP.png",
+         "width": 1160,
+         "height": 1739,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/IM%40s_Kisaragi_Chihaya_SICP.png",
+         "name": "IM@s_Kisaragi_Chihaya_SICP.png",
+         "width": 1165,
+         "height": 1740,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Inuyama_Aoi_Showing_Off_SICP.png",
+         "name": "Inuyama_Aoi_Showing_Off_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Isla_Angry_Holding_SICP.jpg",
+         "name": "Isla_Angry_Holding_SICP.jpg",
+         "width": 1440,
+         "height": 810,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Iwakura_Lain_SICP.png",
+         "name": "Iwakura_Lain_SICP.png",
+         "width": 759,
+         "height": 1021,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kagami_reading_SICP.jpg",
+         "name": "Kagami_reading_SICP.jpg",
+         "width": 675,
+         "height": 476,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kanna_Kamui_Finds_SICP.jpg",
+         "name": "Kanna_Kamui_Finds_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kemono_Friends_Serval_Kaban_Find_SICP.jpg",
+         "name": "Kemono_Friends_Serval_Kaban_Find_SICP.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kikuchi_Makoto_Hiding_Behind_SICP.jpg",
+         "name": "Kikuchi_Makoto_Hiding_Behind_SICP.jpg",
+         "width": 1920,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kin-iro_Mosaic_Alice_crying_for_bible_SICP.jpg",
+         "name": "Kin-iro_Mosaic_Alice_crying_for_bible_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kohashi_Wakaba_READING_SICP.jpg",
+         "name": "Kohashi_Wakaba_READING_SICP.jpg",
+         "width": 237,
+         "height": 341,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kohashi_Wakaba_reading_SICP2.jpg",
+         "name": "Kohashi_Wakaba_reading_SICP2.jpg",
+         "width": 400,
+         "height": 450,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kokonoe_Rin_Presenting_SICP.jpg",
+         "name": "Kokonoe_Rin_Presenting_SICP.jpg",
+         "width": 434,
+         "height": 479,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Komeji_Satori_Owns_SICP.png",
+         "name": "Komeji_Satori_Owns_SICP.png",
+         "width": 600,
+         "height": 600,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Komichi_Aya_Hugging_SICP.jpg",
+         "name": "Komichi_Aya_Hugging_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Konata_With_SICP.jpg",
+         "name": "Konata_With_SICP.jpg",
+         "width": 707,
+         "height": 1000,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Koukaku_no_Pandora_SICP.jpg",
+         "name": "Koukaku_no_Pandora_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kujou_Karen_Does_SICP.png",
+         "name": "Kujou_Karen_Does_SICP.png",
+         "width": 596,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kujou_Karen_Gets_SICP.png",
+         "name": "Kujou_Karen_Gets_SICP.png",
+         "width": 760,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kujou_Karen_Likes_SICP.png",
+         "name": "Kujou_Karen_Likes_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kujou_Karen_Likes_SICP_.png",
+         "name": "Kujou_Karen_Likes_SICP_.png",
+         "width": 640,
+         "height": 360,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kuramoto_Chinatsu_Presenting_SICP.jpg",
+         "name": "Kuramoto_Chinatsu_Presenting_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kurosawa_Ruby_Holding_SICP.jpg",
+         "name": "Kurosawa_Ruby_Holding_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Kurumizawa_Satanichia_Reading_SICP.jpg",
+         "name": "Kurumizawa_Satanichia_Reading_SICP.jpg",
+         "width": 778,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Lain_Holding_SICP_Behind_Her_Back.png",
+         "name": "Lain_Holding_SICP_Behind_Her_Back.png",
+         "width": 496,
+         "height": 400,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Laura_La_Mer_Enjoying_SICP.png",
+         "name": "Laura_La_Mer_Enjoying_SICP.png",
+         "width": 948,
+         "height": 532,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Maa_nyanko_days_SICP.jpg",
+         "name": "Maa_nyanko_days_SICP.jpg",
+         "width": 540,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Mahoro_with_SICP.png",
+         "name": "Mahoro_with_SICP.png",
+         "width": 796,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Maki_and_Nico_Love_Live_with_SICP.jpg",
+         "name": "Maki_and_Nico_Love_Live_with_SICP.jpg",
+         "width": 850,
+         "height": 1204,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Manaka_Ao_Recommends_SICP.png",
+         "name": "Manaka_Ao_Recommends_SICP.png",
+         "width": 1916,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Maple_Reading_SICP.png",
+         "name": "Maple_Reading_SICP.png",
+         "width": 319,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Miia_Flustered_By_SICP.png",
+         "name": "Miia_Flustered_By_SICP.png",
+         "width": 500,
+         "height": 504,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Mikage_Sakurai_Demonstrates_SICP.jpg",
+         "name": "Mikage_Sakurai_Demonstrates_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Nagato_Yuki_Bandaged_Hand_SICP.jpg",
+         "name": "Nagato_Yuki_Bandaged_Hand_SICP.jpg",
+         "width": 700,
+         "height": 700,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Nagato_Yuki_On_Cover_Of_SICP.jpg",
+         "name": "Nagato_Yuki_On_Cover_Of_SICP.jpg",
+         "width": 400,
+         "height": 579,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Nagato_Yuki_SICP.jpg",
+         "name": "Nagato_Yuki_SICP.jpg",
+         "width": 612,
+         "height": 816,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Naoki_Miki_reading_SICP.png",
+         "name": "Naoki_Miki_reading_SICP.png",
+         "width": 724,
+         "height": 674,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Niko_Yazawa_SICP.jpg",
+         "name": "Niko_Yazawa_SICP.jpg",
+         "width": 788,
+         "height": 443,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Ninomae_Inanis_Holding_SICP.jpg",
+         "name": "Ninomae_Inanis_Holding_SICP.jpg",
+         "width": 2048,
+         "height": 2048,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Ojohsama_no_Himitsu_Panel_SICP.png",
+         "name": "Ojohsama_no_Himitsu_Panel_SICP.png",
+         "width": 1111,
+         "height": 1600,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Oomiya_Shinobu_Reading_SICP.gif",
+         "name": "Oomiya_Shinobu_Reading_SICP.gif",
+         "width": 640,
+         "height": 360,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Oomiya_Shinobu_Reading_SICP.jpg",
+         "name": "Oomiya_Shinobu_Reading_SICP.jpg",
+         "width": 1200,
+         "height": 675,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Oumae_Kumiko_Reading_SICP.jpg",
+         "name": "Oumae_Kumiko_Reading_SICP.jpg",
+         "width": 1280,
+         "height": 1440,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Patchouli_Gives_SICP.jpg",
+         "name": "Patchouli_Gives_SICP.jpg",
+         "width": 700,
+         "height": 849,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Patchouli_Looking_At_Viewer_SICP.jpg",
+         "name": "Patchouli_Looking_At_Viewer_SICP.jpg",
+         "width": 2362,
+         "height": 2362,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Patchouli_Prefers_SICP.jpg",
+         "name": "Patchouli_Prefers_SICP.jpg",
+         "width": 450,
+         "height": 600,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Patchouli_SICP.jpg",
+         "name": "Patchouli_SICP.jpg",
+         "width": 800,
+         "height": 534,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Patchy_Fumo_reads_SICP.jpg",
+         "name": "Patchy_Fumo_reads_SICP.jpg",
+         "width": 1024,
+         "height": 768,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Professor_Shinonome_Finds_SICP.jpg",
+         "name": "Professor_Shinonome_Finds_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Professor_Shinonome_Sleeps_With_SICP.gif",
+         "name": "Professor_Shinonome_Sleeps_With_SICP.gif",
+         "width": 500,
+         "height": 281,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Saki_Sukinasaki_holding_SICP.PNG",
+         "name": "Saki_Sukinasaki_holding_SICP.PNG",
+         "width": 296,
+         "height": 427,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Sakura_Chiyo_Flustered_Hugging_SICP.jpg",
+         "name": "Sakura_Chiyo_Flustered_Hugging_SICP.jpg",
+         "width": 971,
+         "height": 1200,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Sakura_Nene_Prefers_SICP.jpg",
+         "name": "Sakura_Nene_Prefers_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Sakurako_Ohmuro_Holding_SICP.png",
+         "name": "Sakurako_Ohmuro_Holding_SICP.png",
+         "width": 557,
+         "height": 596,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Satania_SICP.jpeg",
+         "name": "Satania_SICP.jpeg",
+         "width": 241,
+         "height": 209,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Satonaka_Chie_Ooya-san_wa_Shishunki_Glancing_SICP.png",
+         "name": "Satonaka_Chie_Ooya-san_wa_Shishunki_Glancing_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Satou_Sakie_Flustered_Reading_SICP.jpg",
+         "name": "Satou_Sakie_Flustered_Reading_SICP.jpg",
+         "width": 844,
+         "height": 920,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Sawai_Natsuha_Smug_SICP.png",
+         "name": "Sawai_Natsuha_Smug_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Senko_Holds_Structure_and_Interpretations_of_Computer_Programs.jpg",
+         "name": "Senko_Holds_Structure_and_Interpretations_of_Computer_Programs.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Shima_Rin_Reading_SICP_2.png",
+         "name": "Shima_Rin_Reading_SICP_2.png",
+         "width": 1625,
+         "height": 1980,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Shima_Rin_Yuru_SICP.png",
+         "name": "Shima_Rin_Yuru_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Shima_Rin_reading_SICP.jpg",
+         "name": "Shima_Rin_reading_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Shiori_Shiomiya_Holding_SICP.jpg",
+         "name": "Shiori_Shiomiya_Holding_SICP.jpg",
+         "width": 660,
+         "height": 660,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Squid_Girl_Ikamusume_recommends_SICP.jpg",
+         "name": "Squid_Girl_Ikamusume_recommends_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Suetsugi_Konoha_hugging_SICP.jpg",
+         "name": "Suetsugi_Konoha_hugging_SICP.jpg",
+         "width": 1920,
+         "height": 3272,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Suigintou_Smug_SICP.jpg",
+         "name": "Suigintou_Smug_SICP.jpg",
+         "width": 600,
+         "height": 600,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Suminoe_Ako_Reads_SICP.png",
+         "name": "Suminoe_Ako_Reads_SICP.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Suzukaze_Aoba_holding_SICP.png",
+         "name": "Suzukaze_Aoba_holding_SICP.png",
+         "width": 363,
+         "height": 572,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Tateishi_Shima_Reading_SICP.png",
+         "name": "Tateishi_Shima_Reading_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Tenma_Gabriel_Yelling_SICP.png",
+         "name": "Tenma_Gabriel_Yelling_SICP.png",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Urara_Shiratori_SICP.png",
+         "name": "Urara_Shiratori_SICP.png",
+         "width": 811,
+         "height": 599,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Yagami_Kou_Starts_SICP.jpg",
+         "name": "Yagami_Kou_Starts_SICP.jpg",
+         "width": 1280,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Yamashita_reads_SICP.jpg",
+         "name": "Yamashita_reads_SICP.jpg",
+         "width": 686,
+         "height": 720,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Yukimura_Aoi_Reading_SICP.jpg",
+         "name": "Yukimura_Aoi_Reading_SICP.jpg",
+         "width": 640,
+         "height": 640,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/SICP/Yuriko_Nanao_SICP.png",
+         "name": "Yuriko_Nanao_SICP.png",
+         "width": 342,
+         "height": 752,
+         "category": "SICP"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Scala/Senko-san_Scala.png",
+         "name": "Senko-san_Scala.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Scala"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Smalltalk/Hitori_Bocchi_Smalltalk_80.png",
+         "name": "Hitori_Bocchi_Smalltalk_80.png",
+         "width": 847,
+         "height": 1200,
+         "category": "Smalltalk"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Swift/5-Toubun-No-Hanayome_Nino-Nakano_Swift.png",
+         "name": "5-Toubun-No-Hanayome_Nino-Nakano_Swift.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Swift"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Systems/Hakurei_Reimu_reading_SerenityOS_Programming.png",
+         "name": "Hakurei_Reimu_reading_SerenityOS_Programming.png",
+         "width": 1160,
+         "height": 1413,
+         "category": "Systems"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Systems/Kobayashi_Reading_Computer_Systems.png",
+         "name": "Kobayashi_Reading_Computer_Systems.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "Systems"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Systems/Sakurajima_Mai_holding_SerenityOS_Programming.png",
+         "name": "Sakurajima_Mai_holding_SerenityOS_Programming.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Systems"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Systems/shimarin_csapp.png",
+         "name": "shimarin_csapp.png",
+         "width": 658,
+         "height": 660,
+         "category": "Systems"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Beako_Reading_The_TypeScript_Programming_Language.png",
+         "name": "Beako_Reading_The_TypeScript_Programming_Language.png",
+         "width": 1080,
+         "height": 1079,
+         "category": "Typescript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Shalltear_Bloodfallen_Holding_Effective_Typescript.png",
+         "name": "Shalltear_Bloodfallen_Holding_Effective_Typescript.png",
+         "width": 720,
+         "height": 720,
+         "category": "Typescript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Typescript/Teruhashi_Kokomi_Reading_Essential_Typescript_In_The_Bathroom.png",
+         "name": "Teruhashi_Kokomi_Reading_Essential_Typescript_In_The_Bathroom.png",
+         "width": 1280,
+         "height": 720,
+         "category": "Typescript"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Uncategorized/Nagato_Yuki_Reading_Starplex.jpg",
+         "name": "Nagato_Yuki_Reading_Starplex.jpg",
+         "width": 720,
+         "height": 720,
+         "category": "Uncategorized"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Uncategorized/Takashima_Momoka_reading_Hardcore_Programming.png",
+         "name": "Takashima_Momoka_reading_Hardcore_Programming.png",
+         "width": 356,
+         "height": 464,
+         "category": "Uncategorized"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Uncategorized/Vigne_holds_Concepts_of_Programming_Languages_by_Sebesta.png",
+         "name": "Vigne_holds_Concepts_of_Programming_Languages_by_Sebesta.png",
+         "width": 1163,
+         "height": 943,
+         "category": "Uncategorized"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Unreal/Notsurewhothisis.jpg",
+         "name": "Notsurewhothisis.jpg",
+         "width": 640,
+         "height": 904,
+         "category": "Unreal"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/V/Takunomi_Nao-Kiriyama_V.png",
+         "name": "Takunomi_Nao-Kiriyama_V.png",
+         "width": 1920,
+         "height": 1080,
+         "category": "V"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Verilog/Dita_Verilog_HDL.png",
+         "name": "Dita_Verilog_HDL.png",
+         "width": 720,
+         "height": 404,
+         "category": "Verilog"
+      },
+      {
+         "url": "https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/WebGL/Naru_and_Hana_from_Hanayamata_WebGL_par_la_pratique(french_book).png",
+         "name": "Naru_and_Hana_from_Hanayamata_WebGL_par_la_pratique(french_book).png",
+         "width": 779,
+         "height": 564,
+         "category": "WebGL"
+      }
+   ],
+   "categories": [
+      {
+         "title": "All",
+         "link": "/",
+         "count": 319
+      },
+      {
+         "title": "APL",
+         "link": "/apl",
+         "count": 1
+      },
+      {
+         "title": "ASM",
+         "link": "/asm",
+         "count": 2
+      },
+      {
+         "title": "Ada",
+         "link": "/ada",
+         "count": 1
+      },
+      {
+         "title": "Algorithms",
+         "link": "/algorithms",
+         "count": 7
+      },
+      {
+         "title": "Architecture",
+         "link": "/architecture",
+         "count": 1
+      },
+      {
+         "title": "C",
+         "link": "/c",
+         "count": 32
+      },
+      {
+         "title": "C#",
+         "link": "/c%23",
+         "count": 4
+      },
+      {
+         "title": "C++",
+         "link": "/c%2B%2B",
+         "count": 14
+      },
+      {
+         "title": "Cobol",
+         "link": "/cobol",
+         "count": 1
+      },
+      {
+         "title": "Compilers",
+         "link": "/compilers",
+         "count": 2
+      },
+      {
+         "title": "D",
+         "link": "/d",
+         "count": 1
+      },
+      {
+         "title": "Delphi",
+         "link": "/delphi",
+         "count": 1
+      },
+      {
+         "title": "Design Patterns",
+         "link": "/design%20patterns",
+         "count": 4
+      },
+      {
+         "title": "Editors",
+         "link": "/editors",
+         "count": 4
+      },
+      {
+         "title": "Elixir",
+         "link": "/elixir",
+         "count": 4
+      },
+      {
+         "title": "Fortran",
+         "link": "/fortran",
+         "count": 1
+      },
+      {
+         "title": "GDScript",
+         "link": "/gdscript",
+         "count": 1
+      },
+      {
+         "title": "Go",
+         "link": "/go",
+         "count": 5
+      },
+      {
+         "title": "Haskell",
+         "link": "/haskell",
+         "count": 6
+      },
+      {
+         "title": "HoTT",
+         "link": "/hott",
+         "count": 4
+      },
+      {
+         "title": "HolyC",
+         "link": "/holyc",
+         "count": 3
+      },
+      {
+         "title": "Java",
+         "link": "/java",
+         "count": 9
+      },
+      {
+         "title": "Javascript",
+         "link": "/javascript",
+         "count": 10
+      },
+      {
+         "title": "Kotlin",
+         "link": "/kotlin",
+         "count": 3
+      },
+      {
+         "title": "Lisp",
+         "link": "/lisp",
+         "count": 4
+      },
+      {
+         "title": "Lua",
+         "link": "/lua",
+         "count": 9
+      },
+      {
+         "title": "Math",
+         "link": "/math",
+         "count": 8
+      },
+      {
+         "title": "Memes",
+         "link": "/memes",
+         "count": 7
+      },
+      {
+         "title": "Mixed",
+         "link": "/mixed",
+         "count": 2
+      },
+      {
+         "title": "Nim",
+         "link": "/nim",
+         "count": 1
+      },
+      {
+         "title": "OCaml",
+         "link": "/ocaml",
+         "count": 2
+      },
+      {
+         "title": "Other",
+         "link": "/other",
+         "count": 10
+      },
+      {
+         "title": "PHP",
+         "link": "/php",
+         "count": 2
+      },
+      {
+         "title": "Perl",
+         "link": "/perl",
+         "count": 4
+      },
+      {
+         "title": "Personification",
+         "link": "/personification",
+         "count": 3
+      },
+      {
+         "title": "Prolog",
+         "link": "/prolog",
+         "count": 1
+      },
+      {
+         "title": "Python",
+         "link": "/python",
+         "count": 12
+      },
+      {
+         "title": "Quantum Computing",
+         "link": "/quantum%20computing",
+         "count": 2
+      },
+      {
+         "title": "Racket",
+         "link": "/racket",
+         "count": 1
+      },
+      {
+         "title": "Ruby",
+         "link": "/ruby",
+         "count": 7
+      },
+      {
+         "title": "Rust",
+         "link": "/rust",
+         "count": 16
+      },
+      {
+         "title": "SICP",
+         "link": "/sicp",
+         "count": 90
+      },
+      {
+         "title": "Scala",
+         "link": "/scala",
+         "count": 1
+      },
+      {
+         "title": "Smalltalk",
+         "link": "/smalltalk",
+         "count": 1
+      },
+      {
+         "title": "Swift",
+         "link": "/swift",
+         "count": 1
+      },
+      {
+         "title": "Systems",
+         "link": "/systems",
+         "count": 4
+      },
+      {
+         "title": "Typescript",
+         "link": "/typescript",
+         "count": 3
+      },
+      {
+         "title": "Uncategorized",
+         "link": "/uncategorized",
+         "count": 3
+      },
+      {
+         "title": "Unreal",
+         "link": "/unreal",
+         "count": 1
+      },
+      {
+         "title": "V",
+         "link": "/v",
+         "count": 1
+      },
+      {
+         "title": "Verilog",
+         "link": "/verilog",
+         "count": 1
+      },
+      {
+         "title": "WebGL",
+         "link": "/webgl",
+         "count": 1
+      }
+   ]
+}
